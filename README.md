@@ -49,10 +49,6 @@ And I'm learning
 [![Ruby on rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
 [![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)](https://marketingplatform.google.com/intl/es/about/analytics/)
 
-## I've working with this tools this week
-[![Jaime's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eltranseunteurbano)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## My gh stats
 [![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltranseunteurbano&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -60,7 +56,6 @@ And I'm learning
 These are my last projects where I'm practicing with differents technologies just for fun and learn.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eltranseunteurbano&repo=pokedex)](https://github.com/eltranseunteurbano/pokedex)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eltranseunteurbano&repo=snake-ruby)](https://github.com/eltranseunteurbano/snake-ruby)
 
 ## Contact me
