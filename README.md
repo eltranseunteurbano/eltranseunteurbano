@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/eltranseunteurbano/eltranseunteurbano/main/new-banner.jpg" alt="Jaime Burbano introduction" width="1500">
+<img src="https://raw.githubusercontent.com/eltranseunteurbano/eltranseunteurbano/main/new-banner.jpg" alt="Jaime Burbano introduction" width="1000">
 
 [![wakatime](https://wakatime.com/badge/user/8a974e45-7425-4d48-90a6-4f41c99cb00c.svg)](https://wakatime.com/@8a974e45-7425-4d48-90a6-4f41c99cb00c)
 
