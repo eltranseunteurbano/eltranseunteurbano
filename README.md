@@ -15,11 +15,7 @@ These are my most use languages in the last months.
 However, these are all the technologies that I use:
 <br />
 <br />
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
-[![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=whiteE)](https://www.typescriptlang.org/)
-[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)  [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)  [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/es/docs/Web/JavaScript)  [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=whiteE)](https://www.typescriptlang.org/)  [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 <br />
 [![React Js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://es.reactjs.org/)
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
@@ -53,8 +49,7 @@ And I'm learning
 ## These are my last projects
 These are my last projects where I'm practicing with differents technologies just for fun and learn.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eltranseunteurbano&repo=pokedex)](https://github.com/eltranseunteurbano/pokedex)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eltranseunteurbano&repo=snake-ruby)](https://github.com/eltranseunteurbano/snake-ruby)
+[![Pokedex Card](https://github-readme-stats.vercel.app/api/pin/?username=eltranseunteurbano&repo=pokedex)](https://github.com/eltranseunteurbano/pokedex) [![Snake Card](https://github-readme-stats.vercel.app/api/pin/?username=eltranseunteurbano&repo=snake-ruby)](https://github.com/eltranseunteurbano/snake-ruby)
 
 ## Contact me
 
