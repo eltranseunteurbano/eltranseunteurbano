@@ -1,4 +1,5 @@
 ![Jaime Burbano introduction](https://raw.githubusercontent.com/eltranseunteurbano/eltranseunteurbano/main/banner.jpg)
+
 [![wakatime](https://wakatime.com/badge/user/8a974e45-7425-4d48-90a6-4f41c99cb00c.svg)](https://wakatime.com/@8a974e45-7425-4d48-90a6-4f41c99cb00c)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=eltranseunteurbano.visitor-badge&left_color=blue&right_color=grey&left_text=Hello%20Visitor)
@@ -9,9 +10,11 @@ Hi, i'm [Jaime Burbano](https://jaimeburbano.com/), an colombian interaction des
 ## Languages and tools:
 
 These are my most use languages in the last months.
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltranseunteurbano&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-However, these are all the technologies that I use
+However, these are all the technologies that I use:
+<br />
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -25,12 +28,15 @@ However, these are all the technologies that I use
 ![](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
 Design tools
+<br />
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 Measuring tools
+<br />
 ![](https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white)
 
 And I'm learning
+<br />
 ![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
