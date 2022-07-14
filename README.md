@@ -16,6 +16,7 @@ These are my most use languages in the last months.
 
 However, these are all the technologies that I use:
 <br />
+<br />
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -35,6 +36,7 @@ Design tools
 
 Measuring tools
 <br />
+<br />
 ![](https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white)
 
 And I'm learning
@@ -47,7 +49,6 @@ And I'm learning
 ## I've working with this tools this week
 [![Jaime's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eltranseunteurbano)](https://github.com/anuraghazra/github-readme-stats)
 
->
 
 ## My gh stats
 [![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltranseunteurbano&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -62,11 +63,7 @@ These are my last projects where I'm practicing with differents technologies jus
 ## Contact me
 
 [![Jaime's Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:burbanojaime98@gmail.com)
-
 [![Jaime's website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](www.jaimeburbano.com)
-
 [![Jaime's git hub profile](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eltranseunteurbano)
-
 [![Jaime's hacker rank profile](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/jaimeburbano)
-
 [![Jaime's linkedin profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eltranseunteurbano/)
