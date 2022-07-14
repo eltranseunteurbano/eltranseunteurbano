@@ -1,9 +1,6 @@
 <img src="https://raw.githubusercontent.com/eltranseunteurbano/eltranseunteurbano/main/banner.jpg" alt="Jaime Burbano introduction">
 
-<p>
-  [![wakatime](https://wakatime.com/badge/user/8a974e45-7425-4d48-90a6-4f41c99cb00c.svg)](https://wakatime.com/@8a974e45-7425-4d48-90a6-4f41c99cb00c)
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=eltranseunteurbano.visitor-badge&left_color=blue&right_color=grey&left_text=Hello%20Visitor)
-</p>
+[![wakatime](https://wakatime.com/badge/user/8a974e45-7425-4d48-90a6-4f41c99cb00c.svg)](https://wakatime.com/@8a974e45-7425-4d48-90a6-4f41c99cb00c) ![visitors](https://visitor-badge.glitch.me/badge?page_id=eltranseunteurbano.visitor-badge&left_color=blue&right_color=grey&left_text=Hello%20Visitor)
 
 # Hey there, welcome!
 Hi, i'm [Jaime Burbano](https://jaimeburbano.com/), an colombian interaction designer, with experience as a designer and front end developer focused on offering the best interaction experience to users through usability, accessibility and the exact conversion of design to code. My main interest is in solving problems through technology in any team.
