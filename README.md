@@ -1,4 +1,4 @@
-![Jaime Burbano introduction](https://raw.githubusercontent.com/eltranseunteurbano/eltranseunteurbano/main/banner.jpg =500)
+![Jaime Burbano introduction](https://raw.githubusercontent.com/eltranseunteurbano/eltranseunteurbano/main/banner.jpg =500x)
 
 [![wakatime](https://wakatime.com/badge/user/8a974e45-7425-4d48-90a6-4f41c99cb00c.svg)](https://wakatime.com/@8a974e45-7425-4d48-90a6-4f41c99cb00c)
 
