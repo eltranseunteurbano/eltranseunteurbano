@@ -11,6 +11,7 @@ Hi, i'm [Jaime Burbano](https://jaimeburbano.com/), an colombian interaction des
 
 These are my most use languages in the last months.
 <br />
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltranseunteurbano&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 However, these are all the technologies that I use:
@@ -29,6 +30,7 @@ However, these are all the technologies that I use:
 
 Design tools
 <br />
+<br />
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 Measuring tools
@@ -36,6 +38,7 @@ Measuring tools
 ![](https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white)
 
 And I'm learning
+<br />
 <br />
 ![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
