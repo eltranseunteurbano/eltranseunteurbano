@@ -35,19 +35,19 @@ However, these are all the technologies that I use:
 Design tools
 <br />
 <br />
-![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+[![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
 Measuring tools
 <br />
 <br />
-![](https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white)
+[![Figma](https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white)](https://www.figma.com/)
 
 And I'm learning
 <br />
 <br />
-![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/es/)
+[![Ruby on rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
+[![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)](https://marketingplatform.google.com/intl/es/about/analytics/)
 
 ## I've working with this tools this week
 [![Jaime's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eltranseunteurbano)](https://github.com/anuraghazra/github-readme-stats)
