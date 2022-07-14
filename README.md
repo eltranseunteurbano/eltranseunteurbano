@@ -1,16 +1,12 @@
 ### Hey there, Welcome! 
 <a href="https://www.linkedin.com/in/eltranseunteurbano/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Jaime Burbano Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
 
 Hi, i'm [Jaime Burbano](https://jaimeburbano.com/), an colombian interaction designer, with experience as a designer and front end developer focused on offering the best interaction experience to users through usability, accessibility and the exact conversion of design to code. My main interest is in solving problems through technology in any team.
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:burbanojaime98@gmail.com) :)
 - 💬 ask me about anything, I like to help;
