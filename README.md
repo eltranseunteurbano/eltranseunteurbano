@@ -40,9 +40,6 @@ And I'm learning
 <br />
 <br />
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/es/)
-[![Ruby on rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
-[![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)](https://marketingplatform.google.com/intl/es/about/analytics/)
 
 ## My gh stats
 [![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltranseunteurbano&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
